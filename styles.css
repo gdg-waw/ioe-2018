@@ -35,8 +35,12 @@ a img{
 
 .title-grey {
   color: grey;
-  margin-top: 2%;
+  margin-top: 4%;
   margin-bottom: 2%;
+}
+
+.space-top {
+  padding-top: 50px;
 }
 
 .center {
